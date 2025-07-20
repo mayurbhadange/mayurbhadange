@@ -1,7 +1,6 @@
 # Hi, I'm Mayur Bhadange 👋
 
 🎯 Passionate about building impactful software and solving real-world problems.  
-⚽ Footballer at heart | 💻 Software Developer by profession.
 
 ---
 
