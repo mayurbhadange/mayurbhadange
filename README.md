@@ -30,7 +30,7 @@
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/mayur-bhadange)
-- [X (Twitter)](https://www.linkedin.com/in/mayur-bhadange-392a82249/)
+- [X (Twitter)]((https://x.com/mayurbhadange10))
 - [Portfolio (Coming Soon)]()
 
 ---
